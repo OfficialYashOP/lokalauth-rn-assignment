@@ -2,6 +2,17 @@
 
 Passwordless authentication flow using Email + OTP, followed by a Session screen with live duration tracking.
 
+## Website
+
+Live website: https://lokalauth.lovable.app/
+
+From the website, users can:
+
+- download the app
+- visit the GitHub repository
+- watch the demo video
+- view screenshots
+
 ## Tech Stack
 
 - React Native (Expo)
@@ -175,3 +186,6 @@ src/
     auth.ts
     navigation.ts
 ```
+
+
+
