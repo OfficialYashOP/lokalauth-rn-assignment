@@ -30,6 +30,14 @@ npx expo start
 - Mobile: scan the QR code with Expo Go
 - Android emulator: press `a` in terminal
 - iOS simulator (macOS): press `i`
+- Optional: install the prebuilt APK from `apk/LokalAuth.apk`
+
+## APK (Optional)
+
+If you want to test directly without running Expo locally:
+
+- APK file: `apk/LokalAuth.apk`
+- Install on Android device and allow install from unknown sources if prompted
 
 ## Requirement Coverage
 
